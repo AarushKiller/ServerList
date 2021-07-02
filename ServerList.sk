@@ -1,0 +1,16 @@
+on server list ping:        
+	set motd to "&7 &7 &7 &7 &7 &7 &3&lServerMC&8.&3&lORG &8┃ &7&oThis is a awesome server %nl% &7 &7 &7 &7 &7 &7 &7 &7 &7 &7 &7 &7 &7 &f&l&k|||&7 &b&l30.4 &8| &b&l19:00 &3&l##HYPE &f&l&k|||"
+	set max player count to 100
+	set version string to "&8(&e%amount of players%&8/&e75&8)"
+
+
+	reset player hover list
+	add "&8«&m---------------------------------&8»" to player hover list
+	add "&7" to player hover list
+	add "             &3&lServerMC.ORG" to player hover list
+	add "       &fThis is a &aAwesome Server" to player hover list
+	add "&7" to player hover list
+	add "&8«&m---------------------------------&8»" to player hover list
+
+
+
